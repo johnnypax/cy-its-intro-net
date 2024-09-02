@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\bin\Debug\net8.0\lez01_recap_classi.exe
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\bin\Debug\net8.0\lez01_recap_classi.deps.json
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\bin\Debug\net8.0\lez01_recap_classi.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\bin\Debug\net8.0\lez01_recap_classi.dll
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\bin\Debug\net8.0\lez01_recap_classi.pdb
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\lez01_recap_classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\lez01_recap_classi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\lez01_recap_classi.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\lez01_recap_classi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\lez01_recap_classi.sourcelink.json
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\lez01_recap_classi.dll
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\refint\lez01_recap_classi.dll
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\lez01_recap_classi.pdb
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\lez01_recap_classi.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\lez01_recap_classi\lez01_recap_classi\obj\Debug\net8.0\ref\lez01_recap_classi.dll

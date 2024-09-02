@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\bin\Debug\net8.0\lez02_classi_generale.exe
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\bin\Debug\net8.0\lez02_classi_generale.deps.json
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\bin\Debug\net8.0\lez02_classi_generale.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\bin\Debug\net8.0\lez02_classi_generale.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\bin\Debug\net8.0\lez02_classi_generale.pdb
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\lez02_classi_generale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\lez02_classi_generale.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\lez02_classi_generale.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\lez02_classi_generale.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\lez02_classi_generale.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\refint\lez02_classi_generale.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\lez02_classi_generale.pdb
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\lez02_classi_generale.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez02_classi_generale\lez02_classi_generale\obj\Debug\net8.0\ref\lez02_classi_generale.dll
