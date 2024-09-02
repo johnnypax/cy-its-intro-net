@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3469F617-DCA1-452A-822E-B310E8A23B89}|lez04_astrazione\\lez04_astrazione.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469F617-DCA1-452A-822E-B310E8A23B89}|lez04_astrazione\\lez04_astrazione.csproj|solutionrelative:lez04_astrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3469F617-DCA1-452A-822E-B310E8A23B89}|lez04_astrazione\\lez04_astrazione.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469F617-DCA1-452A-822E-B310E8A23B89}|lez04_astrazione\\lez04_astrazione.csproj|solutionrelative:lez04_astrazione\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3469F617-DCA1-452A-822E-B310E8A23B89}|lez04_astrazione\\lez04_astrazione.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469F617-DCA1-452A-822E-B310E8A23B89}|lez04_astrazione\\lez04_astrazione.csproj|solutionrelative:lez04_astrazione\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3469F617-DCA1-452A-822E-B310E8A23B89}|lez04_astrazione\\lez04_astrazione.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469F617-DCA1-452A-822E-B310E8A23B89}|lez04_astrazione\\lez04_astrazione.csproj|solutionrelative:lez04_astrazione\\classes\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gatto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\Gatto.cs",
+              "RelativeDocumentMoniker": "lez04_astrazione\\classes\\Gatto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\Gatto.cs",
+              "RelativeToolTip": "lez04_astrazione\\classes\\Gatto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:54:44.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cane.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\Cane.cs",
+              "RelativeDocumentMoniker": "lez04_astrazione\\classes\\Cane.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\Cane.cs",
+              "RelativeToolTip": "lez04_astrazione\\classes\\Cane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:54:33.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\Program.cs",
+              "RelativeDocumentMoniker": "lez04_astrazione\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\Program.cs",
+              "RelativeToolTip": "lez04_astrazione\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:53:32.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\Animale.cs",
+              "RelativeDocumentMoniker": "lez04_astrazione\\classes\\Animale.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez04_astrazione\\lez04_astrazione\\classes\\Animale.cs",
+              "RelativeToolTip": "lez04_astrazione\\classes\\Animale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:53:48.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

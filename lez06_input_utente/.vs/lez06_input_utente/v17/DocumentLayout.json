@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez06_input_utente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BA30D2-B0FC-4432-864E-E9F44D3121B9}|lez06_input_utente\\lez06_input_utente.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez06_input_utente\\lez06_input_utente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BA30D2-B0FC-4432-864E-E9F44D3121B9}|lez06_input_utente\\lez06_input_utente.csproj|solutionrelative:lez06_input_utente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez06_input_utente\\lez06_input_utente\\Program.cs",
+              "RelativeDocumentMoniker": "lez06_input_utente\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez06_input_utente\\lez06_input_utente\\Program.cs",
+              "RelativeToolTip": "lez06_input_utente\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:58:21.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

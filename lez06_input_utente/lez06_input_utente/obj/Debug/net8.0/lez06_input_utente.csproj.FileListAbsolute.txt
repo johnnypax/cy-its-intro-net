@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\bin\Debug\net8.0\lez06_input_utente.exe
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\bin\Debug\net8.0\lez06_input_utente.deps.json
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\bin\Debug\net8.0\lez06_input_utente.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\bin\Debug\net8.0\lez06_input_utente.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\bin\Debug\net8.0\lez06_input_utente.pdb
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\lez06_input_utente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\lez06_input_utente.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\lez06_input_utente.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\lez06_input_utente.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\lez06_input_utente.sourcelink.json
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\lez06_input_utente.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\refint\lez06_input_utente.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\lez06_input_utente.pdb
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\lez06_input_utente.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez06_input_utente\lez06_input_utente\obj\Debug\net8.0\ref\lez06_input_utente.dll
