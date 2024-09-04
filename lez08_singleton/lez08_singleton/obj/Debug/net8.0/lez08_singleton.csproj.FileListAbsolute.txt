@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\bin\Debug\net8.0\lez08_singleton.exe
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\bin\Debug\net8.0\lez08_singleton.deps.json
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\bin\Debug\net8.0\lez08_singleton.runtimeconfig.json
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\bin\Debug\net8.0\lez08_singleton.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\bin\Debug\net8.0\lez08_singleton.pdb
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\lez08_singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\lez08_singleton.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\lez08_singleton.AssemblyInfo.cs
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\lez08_singleton.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\lez08_singleton.sourcelink.json
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\lez08_singleton.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\refint\lez08_singleton.dll
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\lez08_singleton.pdb
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\lez08_singleton.genruntimeconfig.cache
+C:\Users\ACADEMY\Desktop\its_net_8\lez08_singleton\lez08_singleton\obj\Debug\net8.0\ref\lez08_singleton.dll

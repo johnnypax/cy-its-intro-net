@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez09_database_connection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{402C8DF3-2160-4418-9E56-01DBF6212FC8}|lez09_database_connection\\lez09_database_connection.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402C8DF3-2160-4418-9E56-01DBF6212FC8}|lez09_database_connection\\lez09_database_connection.csproj|solutionrelative:lez09_database_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402C8DF3-2160-4418-9E56-01DBF6212FC8}|lez09_database_connection\\lez09_database_connection.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\lez09_database_connection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{402C8DF3-2160-4418-9E56-01DBF6212FC8}|lez09_database_connection\\lez09_database_connection.csproj|solutionrelative:lez09_database_connection\\lez09_database_connection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402C8DF3-2160-4418-9E56-01DBF6212FC8}|lez09_database_connection\\lez09_database_connection.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\classes\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402C8DF3-2160-4418-9E56-01DBF6212FC8}|lez09_database_connection\\lez09_database_connection.csproj|solutionrelative:lez09_database_connection\\classes\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\classes\\Prodotto.cs",
+              "RelativeDocumentMoniker": "lez09_database_connection\\classes\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\classes\\Prodotto.cs",
+              "RelativeToolTip": "lez09_database_connection\\classes\\Prodotto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:00:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lez09_database_connection",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\lez09_database_connection.csproj",
+              "RelativeDocumentMoniker": "lez09_database_connection\\lez09_database_connection.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\lez09_database_connection.csproj",
+              "RelativeToolTip": "lez09_database_connection\\lez09_database_connection.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T15:00:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\Program.cs",
+              "RelativeDocumentMoniker": "lez09_database_connection\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez09_database_connection\\lez09_database_connection\\Program.cs",
+              "RelativeToolTip": "lez09_database_connection\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:57:50.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
