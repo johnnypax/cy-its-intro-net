@@ -19,4 +19,6 @@ Ogni volo è caratterizzato da:
 - Elenco delle destinazioni in ordine crescente per numero di voli
 
 ## Possibilità di consegnare il progetto in gruppo
-Il voto subisce una attenuazione per ogni componente aggiuntivo di un punto per ogni membro aggiunto. Il totale è quindi di 32, se ci si presenta in più di una persona, rinunciate alla lode.
+- È possibile consegnare il progetto in gruppo, ma il punteggio finale subirà una diminuzione di 1 punto per ogni membro aggiuntivo oltre il primo. Esempio: Se il progetto viene presentato da un gruppo di 3 persone, il voto finale sarà diminuito di 2 punti.
+- Il punteggio massimo è 32 punti.
+- Con più di una persona nel gruppo, non è possibile ottenere la lode.
