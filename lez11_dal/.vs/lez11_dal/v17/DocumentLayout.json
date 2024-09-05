@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{883B30AD-CC11-454D-BD51-9DEB2CF9E972}|lez11_dal\\lez11_dal.csproj|solutionrelative:lez11_dal\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{883B30AD-CC11-454D-BD51-9DEB2CF9E972}|lez11_dal\\lez11_dal.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez11_dal\\lez11_dal\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883B30AD-CC11-454D-BD51-9DEB2CF9E972}|lez11_dal\\lez11_dal.csproj|solutionrelative:lez11_dal\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{883B30AD-CC11-454D-BD51-9DEB2CF9E972}|lez11_dal\\lez11_dal.csproj|c:\\users\\academy\\desktop\\its_net_8\\lez11_dal\\lez11_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{883B30AD-CC11-454D-BD51-9DEB2CF9E972}|lez11_dal\\lez11_dal.csproj|solutionrelative:lez11_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 282,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\DAL\\Config.cs",
+              "RelativeDocumentMoniker": "lez11_dal\\DAL\\Config.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\DAL\\Config.cs",
+              "RelativeToolTip": "lez11_dal\\DAL\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:09:29.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UtenteDAL.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\DAL\\UtenteDAL.cs",
               "RelativeDocumentMoniker": "lez11_dal\\DAL\\UtenteDAL.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "lez11_dal\\DAL\\UtenteDAL.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:57:53.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T10:57:53.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Utente.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\Models\\Utente.cs",
               "RelativeDocumentMoniker": "lez11_dal\\Models\\Utente.cs",
@@ -59,8 +75,7 @@
               "RelativeToolTip": "lez11_dal\\Models\\Utente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:57:12.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T10:57:12.115Z"
             },
             {
               "$type": "Document",
@@ -70,14 +85,14 @@
               "RelativeDocumentMoniker": "lez11_dal\\DAL\\ProdottoDAL.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\DAL\\ProdottoDAL.cs",
               "RelativeToolTip": "lez11_dal\\DAL\\ProdottoDAL.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBQAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T10:56:41.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IDAL.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\DAL\\IDAL.cs",
               "RelativeDocumentMoniker": "lez11_dal\\DAL\\IDAL.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "lez11_dal\\DAL\\IDAL.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:54:57.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T10:54:57.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Prodotto.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\Models\\Prodotto.cs",
               "RelativeDocumentMoniker": "lez11_dal\\Models\\Prodotto.cs",
@@ -98,18 +112,17 @@
               "RelativeToolTip": "lez11_dal\\Models\\Prodotto.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAwwA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:52:25.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T10:52:25.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\Program.cs",
               "RelativeDocumentMoniker": "lez11_dal\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_net_8\\lez11_dal\\lez11_dal\\Program.cs",
               "RelativeToolTip": "lez11_dal\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwCoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T10:43:32.795Z",
               "EditorCaption": ""
