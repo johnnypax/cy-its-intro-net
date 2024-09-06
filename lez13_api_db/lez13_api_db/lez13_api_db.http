@@ -1,0 +1,6 @@
+@lez13_api_db_HostAddress = http://localhost:5108
+
+GET {{lez13_api_db_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

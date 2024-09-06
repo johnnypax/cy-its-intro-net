@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lez12_api_test.props" />
+</Project>
